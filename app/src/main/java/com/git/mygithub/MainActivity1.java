@@ -1,5 +1,8 @@
 package com.git.mygithub;
 
+import android.support.v7.app.AppCompatActivity;
+
+e
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
@@ -12,6 +15,6 @@ public class MainActivity1 extends AppCompatActivity {
 //        qrwreh发文发文各位跟广丰u吧ui暘突然听你
 //        请问请问bdbdbdb
 //          dsfwgrg3grw
-//        segewg
+//        segewgffff
         }
         }
